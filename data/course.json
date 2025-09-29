@@ -28,6 +28,7 @@
     "website": "12-201-essentials-of-geophysics-fall-2004"
   },
   "course_title": "Essentials of Geophysics",
+  "hide_download": true,
   "course_description": "This course is designed to be a survey of the various subdisciplines of geophysics (geodesy, gravity, geomagnetism, seismology, and geodynamics) and how they might relate to or be relevant for other planets. No prior background in Earth sciences is assumed, but students should be comfortable with vector calculus, classical mechanics, and potential field theory.\n",
   "department_numbers": [
     "12"
@@ -38,6 +39,7 @@
     "content": "fc510a24-5352-ce6d-4e51-1bf1bebf2dd7",
     "website": "12-201-essentials-of-geophysics-fall-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"
