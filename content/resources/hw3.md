@@ -4,8 +4,6 @@ description: This resource includes 4 problems.
 file: /courses/12-201-essentials-of-geophysics-fall-2004/00c2db2c82a6f94e649f139d1c7daf4c_hw3.pdf
 file_size: 59627
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -11,8 +11,6 @@ description: 'This file contains the following topics:
 file: /courses/12-201-essentials-of-geophysics-fall-2004/ed326cbc7ba3cbbfb0c21fb6a1dba00a_ch1.pdf
 file_size: 319389
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

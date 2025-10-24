@@ -8,8 +8,6 @@ description: This resource includes getting started with matlab, matrices, matri
 file: /courses/12-201-essentials-of-geophysics-fall-2004/ead6cf97fdd7eb9ce72eedf300718ee2_mltut.pdf
 file_size: 181748
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
